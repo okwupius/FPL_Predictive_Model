@@ -1,0 +1,673 @@
+player_id,First_Name,Last_Name,Price,Position,Team
+1,David,Raya Martín,6.2,1,1
+2,Kepa,Arrizabalaga Revuelta,4.9,1,1
+3,Illan,Meslier,4.9,1,1
+4,Gabriel,dos Santos Magalhães,8.1,2,1
+5,Jurriën,Timber,6.5,2,1
+6,William,Saliba,5.9,2,1
+7,Myles,Lewis-Skelly,5.3,3,1
+8,Riccardo,Calafiori,5.9,2,1
+9,Piero,Hincapié,5.2,2,1
+10,Benjamin,White,5.4,2,1
+11,Cristhian,Mosquera,5.1,2,1
+12,Bukayo,Saka,9.4,3,1
+13,Declan,Rice,7.5,3,1
+14,Eberechi,Eze,6.2,3,1
+15,Martin,Ødegaard,6.7,3,1
+16,Noni,Madueke,6.2,3,1
+17,Mikel,Merino Zazón,5.7,3,1
+18,Gabriel,Martinelli Silva,6.3,3,1
+19,Martín,Zubimendi Ibáñez,5.2,3,1
+20,Max,Dowman,5.3,3,1
+22,Ethan,Nwaneri,5.4,3,1
+23,Fábio,Ferreira Vieira,5.5,3,1
+24,Reiss,Nelson,5.5,3,1
+25,Viktor,Gyökeres,7.0,4,1
+26,Kai,Havertz,7.4,4,1
+27,Gabriel,Fernando de Jesus,5.9,4,1
+31,Ezri,Konsa Ngoyo,4.8,2,1
+452,Bruno,Guimarães Rodriguez Moura,6.7,3,1
+557,Christos,Tzolis,6.1,3,1
+29,Marco,Bizot,4.5,1,2
+30,Lucas,Digne,4.5,2,2
+32,Matty,Cash,4.3,2,2
+33,Tyrone,Mings,4.5,2,2
+34,Pau,Torres,4.4,2,2
+35,Lamare,Bogarde,4.9,3,2
+36,Ian,Maatsen,4.4,2,2
+37,Victor,Lindelöf,4.5,2,2
+38,Andrés,García,4.0,2,2
+39,Kosta,Nedeljkovic,4.0,2,2
+41,Emiliano,Buendía Stati,5.9,3,2
+44,Leon,Bailey,5.4,3,2
+45,John,McGinn,5.4,3,2
+46,Ross,Barkley,5.0,3,2
+47,Boubacar,Kamara,5.0,3,2
+48,Amadou,Onana,4.9,3,2
+49,Samuel,Iling-Junior,5.0,3,2
+50,Bradley,Burrowes,4.4,3,2
+51,George,Hemmings,4.4,3,2
+52,Alysson Edward Franco,da Rocha dos Santos,4.9,3,2
+53,Johan,Manzambi,6.2,3,2
+54,Joao,Gomes,5.5,3,2
+55,Ollie,Watkins,7.8,4,2
+56,Tammy,Abraham,5.5,4,2
+160,Alejandro,Garnacho Ferreyra,5.7,3,2
+166,Nicolas,Jackson,7.1,4,2
+582,Brian,Madjo,5.3,4,2
+596,Matteo,Ruggeri,4.4,2,2
+597,Zion,Suzuki,5.0,1,2
+606,Triston,Rowe,4.0,2,2
+607,Luka,Lynch,4.5,3,2
+611,Aaron,Wan-Bissaka,4.5,2,2
+618,Leon,Goretzka,5.9,3,2
+630,Taylor,Harwood-Bellis,4.5,2,2
+631,Ibrahim,Mbaye,6.0,3,2
+667,James,Wright,4.0,1,2
+672,Modou Kéba,Cissé,4.5,2,2
+57,Đorđe,Petrović,4.5,1,3
+58,Fraser,Forster,4.0,1,3
+59,Will,Dennis,4.0,1,3
+60,James,Hill,5.6,2,3
+61,Adrien,Truffert,5.4,2,3
+62,Bafodé,Diakité,4.9,2,3
+63,Veljko,Milosavljevic,4.9,2,3
+64,Adam,Smith,4.5,2,3
+65,Julián,Araujo Zúñiga,4.4,2,3
+66,Julio,Soler Barreto,4.0,2,3
+67,Rayan Vitor,Simplício Rocha,6.3,3,3
+68,Marcus,Tavernier,6.7,3,3
+69,Alex,Scott,5.9,3,3
+70,Justin,Kluivert,5.9,3,3
+71,Lewis,Cook,5.0,3,3
+72,Ben,Gannon-Doak,4.8,3,3
+73,Tyler,Adams,5.0,3,3
+74,David,Brooks,4.9,3,3
+75,Ryan,Christie,5.0,3,3
+76,Alex,Tóth,4.9,3,3
+77,Amine,Adli,4.8,3,3
+78,Junior,Kroupi,7.3,3,3
+79,Francisco Evanilson,de Lima Barbosa,6.5,4,3
+80,Enes,Ünal,5.5,4,3
+81,Álvaro,Rodríguez,6.0,4,3
+566,António João,Pereira de Albuquerque Tavares da Silva,5.1,2,3
+573,Juanlu,Sánchez,4.4,2,3
+608,Daniel,Jebbison,5.0,4,3
+615,Michele,Di Gregorio,4.5,1,3
+82,Caoimhín,Kelleher,5.0,1,4
+83,Hákon Rafn,Valdimarsson,4.4,1,4
+84,Nathan,Collins,5.4,2,4
+85,Sepp,van den Berg,4.9,2,4
+86,Keane,Lewis-Potter,5.5,3,4
+87,Kristoffer,Ajer,4.5,2,4
+88,Michael,Kayode,4.5,2,4
+89,Rico,Henry,4.4,2,4
+90,Aaron,Hickey,4.5,2,4
+92,Kim,Ji-soo,4.4,2,4
+93,Jannik,Schuster,4.5,2,4
+94,Kevin,Schade,6.1,3,4
+95,Dango,Ouattara,6.2,3,4
+96,Mikkel,Damsgaard,5.3,3,4
+97,Mathias,Jensen,5.4,3,4
+98,Vitaly,Janelt,5.0,3,4
+99,Antoni,Milambo,5.0,3,4
+100,Fábio,Freitas Gouveia Carvalho,5.0,3,4
+102,Yehor,Yarmoliuk,4.7,3,4
+103,Josh,Dasilva,4.8,3,4
+105,Jaidon,Anthony,5.9,3,4
+106,Igor Thiago,Nascimento Rodrigues,7.8,4,4
+107,Kaye,Furo,4.4,4,4
+108,Callum,Wilson,5.3,4,4
+565,Mamadou,Sangaré,5.4,3,4
+620,El Hadji Malick,Diouf,4.4,2,4
+657,Gustavo,Nunes Fernandes Gomes,4.5,3,4
+660,Benjamin,Fredrick,4.0,2,4
+661,Ellery,Balcombe,4.0,1,4
+109,Bart,Verbruggen,4.7,1,5
+111,Jason,Steele,4.0,1,5
+113,Ferdi,Kadıoğlu,4.3,2,5
+114,Olivier,Boscagli,4.5,2,5
+115,Maxim,De Cuyper,5.5,2,5
+116,Lewis,Dunk,4.5,2,5
+117,Diego,Coppola,4.5,2,5
+118,Igor Julio,dos Santos de Paulo,4.5,2,5
+119,João Pedro,Loureiro da Costa,4.5,2,5
+120,Michael,Svoboda,5.0,2,5
+121,Mitoma,Kaoru,5.9,3,5
+122,Yankuba,Minteh,5.8,3,5
+123,Jack,Hinshelwood,5.9,3,5
+124,Pascal,Groß,6.3,3,5
+125,Georginio,Rutter,5.3,4,5
+126,Matt,O'Riley,5.4,3,5
+127,Diego,Gómez Amarilla,5.0,3,5
+128,Facundo,Buonanotte,5.0,3,5
+129,Yasin,Ayari,5.5,3,5
+130,Mats,Wieffer,4.8,2,5
+132,Harry,Howell,4.5,3,5
+133,Tom,Watson,5.0,3,5
+134,Nehemiah,Oriola,4.4,3,5
+135,Zadok,Yohanna,4.8,3,5
+137,Stefanos,Tzimas,5.4,4,5
+138,Charalampos,Kostoulas,5.8,4,5
+139,Evan,Ferguson,4.9,4,5
+328,Pascal,Struijk,4.9,2,5
+504,Luka,Vušković,5.3,2,5
+594,Promise,David,5.9,4,5
+600,Ibrahim,Osman,4.9,3,5
+605,Malick,Yalcouyé,4.4,3,5
+614,Jaouen,Hadjam,4.5,2,5
+624,Amario,Cozier-Duberry,5.0,3,5
+639,José María,Andrés Baixauli,5.5,3,5
+652,Femi,Azeez,5.5,3,5
+658,Younes,Ibrahim,4.5,3,5
+28,Emiliano,Martínez Romero,4.9,1,6
+40,Morgan,Rogers,8.2,3,6
+101,Jordan,Henderson,4.9,3,6
+136,Danny,Welbeck,5.8,4,6
+140,Robert,Lynch Sánchez,4.9,1,6
+141,Filip,Jörgensen,5.0,1,6
+142,Reece,James,5.2,2,6
+143,Trevoh,Chalobah,5.5,2,6
+144,Malo,Gusto,4.8,2,6
+145,Wesley,Fofana,5.0,2,6
+146,Benoît,Badiashile Mukinayi,4.5,2,6
+148,Jorrel,Hato,4.5,2,6
+149,Levi,Samuels Colwill,4.8,2,6
+150,Mamadou,Sarr,4.5,2,6
+151,Josh,Acheampong,4.5,2,6
+152,Marco,Palestra,5.3,2,6
+154,Cole,Palmer,9.8,3,6
+156,Pedro,Lomba Neto,6.6,3,6
+157,Estêvão,Almeida de Oliveira Gonçalves,6.3,3,6
+158,Jamie,Bynoe-Gittens,5.8,3,6
+159,Moisés,Caicedo Corozo,5.3,3,6
+161,Roméo,Lavia,5.0,3,6
+163,Dário,Luís Essugo,4.5,3,6
+164,Geovany,Quenda,5.2,3,6
+165,João Pedro,Junqueira de Jesus,7.6,4,6
+168,Marc,Guiu Paz,5.0,4,6
+169,Shumaira,Mheuka,4.5,4,6
+170,Emmanuel,Emegha,4.9,4,6
+200,Maxence,Lacroix,5.8,2,6
+560,Mike,Penders,4.4,1,6
+561,Aaron,Anselmino,4.5,2,6
+568,Valentín,Barco,5.3,3,6
+583,Pep,Chavarría,4.9,2,6
+662,Mahdi,Nicoll-Jazuli,4.5,3,6
+669,Teddy,Sharman-Lowe,4.0,1,6
+670,Olutayo,Subuloye,4.0,2,6
+91,Ethan,Pinnock,4.5,2,7
+104,Frank,Onyeka,4.8,3,7
+110,Carl,Rushworth,4.5,1,7
+171,Oliver,Dovin,4.0,1,7
+172,Ben,Wilson,4.4,1,7
+173,Bobby,Thomas,4.0,2,7
+174,Liam,Kitching,4.0,2,7
+175,Milan,van Ewijk,3.9,2,7
+176,Jay,Dasilva,4.0,2,7
+177,Kaine,Kesler-Hayden,3.9,2,7
+178,Jake,Bidwell,4.0,2,7
+179,Joel,Latibeaudiere,3.9,2,7
+180,Luke,Woolfenden,3.9,2,7
+181,Miguel,Brau,4.0,2,7
+182,Aurèle,Amenda,3.9,2,7
+183,Jack,Rudoni,4.9,3,7
+184,Matt,Grimes,4.8,3,7
+185,Tatsuhiro,Sakamoto,4.8,3,7
+186,Ephron,Mason-Clark,5.3,3,7
+187,Josh,Eccles,4.8,3,7
+188,Victor,Torp,5.3,3,7
+189,George,Shepherd,4.4,3,7
+190,Loum,Tchaouna,5.3,3,7
+191,Raphael,Borges Rodrigues,4.5,3,7
+192,Kai,Andrews,4.5,3,7
+193,Haji,Wright,5.3,4,7
+194,Brandon,Thomas-Asante,5.0,4,7
+195,Ellis,Simms,4.9,4,7
+196,Jahnoah,Markelo,5.0,4,7
+197,Norman,Bassette,4.5,4,7
+492,Taiwo,Awoniyi,5.4,4,7
+575,Caleb,Yirenkyi,4.8,3,7
+584,Gustavo,Hamer,5.3,3,7
+599,Sidiki,Cherif,5.0,4,7
+623,Dan,Bentley,4.0,1,7
+655,Yann,Gboho,5.5,3,7
+656,Stephen,Mfuni,4.0,2,7
+42,Evann,Guessand,5.3,3,8
+153,Axel,Disasi,4.4,2,8
+198,Dean,Henderson,4.9,1,8
+199,Walter,Benítez,4.5,1,8
+202,Chris,Richards,4.9,2,8
+203,Jaydee,Canvot,4.8,2,8
+204,Tyrick,Mitchell,4.5,2,8
+205,Borna,Sosa,4.5,2,8
+206,Chadi,Riad Dnanou,4.3,2,8
+207,Oscar,Mingueza,4.3,2,8
+208,Ismaïla,Sarr,6.2,3,8
+210,Adam,Wharton,5.3,3,8
+211,Yéremy,Pino Santos,5.5,3,8
+212,Will,Hughes,4.3,3,8
+213,Jefferson,Lerma Solís,4.8,3,8
+214,Daichi,Kamada,5.0,3,8
+215,Justin,Devenny,5.0,3,8
+216,Romain,Esse,5.0,3,8
+217,Matheus,França de Oliveira,4.9,3,8
+218,Cheick,Doucouré,4.7,3,8
+219,Jesurun,Rak-Sakyi,4.9,3,8
+220,Rio,Cardines,4.5,2,8
+221,Joél,Drakes-Thomas,4.4,3,8
+222,Jørgen,Strand Larsen,5.9,4,8
+223,Jean-Philippe,Mateta,6.3,4,8
+224,Eddie,Nketiah,5.4,4,8
+225,Christantus,Uche,5.0,4,8
+241,Dwight,McNeil,5.3,3,8
+555,Remi,Matthews,4.0,1,8
+577,Takehiro,Tomiyasu,4.3,2,8
+588,Anan,Khalaili,5.0,2,8
+595,Zavier,Gozo,4.9,3,8
+633,Honest,Ahanor,4.5,2,8
+643,Ben,Chilwell,4.4,2,8
+644,Quinten,Timber,5.0,3,8
+647,Darío,Osorio,5.4,3,8
+21,Christian,Nørgaard,4.8,3,9
+209,Brennan,Johnson,5.8,3,9
+226,Jordan,Pickford,5.5,1,9
+227,Mark,Travers,5.0,1,9
+228,Tom,King,4.5,1,9
+229,James,Tarkowski,6.2,2,9
+230,Jarrad,Branthwaite,5.5,2,9
+231,Michael,Keane,4.7,2,9
+232,Jake,O'Brien,4.8,2,9
+233,Vitalii,Mykolenko,4.6,2,9
+234,Nathan,Patterson,4.5,2,9
+235,Adam,Aznou,4.0,2,9
+236,Kiernan,Dewsbury-Hall,6.7,3,9
+238,Jack,Grealish,6.5,3,9
+239,James,Garner,6.0,3,9
+242,Tyrique,George,5.5,3,9
+243,Carlos,Alcaraz Durán,4.8,3,9
+244,Harrison,Armstrong,5.0,3,9
+245,Tyler,Dibling,5.3,3,9
+246,Merlin,Röhl,4.9,3,9
+247,Hayden,Hackney,5.3,3,9
+248,Norberto Bercique,Gomes Betuncal,5.4,4,9
+249,Thierno,Barry,5.7,4,9
+649,Ainsley,Maitland-Niles,4.5,2,9
+654,Braiden,Graham,4.4,3,9
+250,Bernd,Leno,4.5,1,10
+251,Benjamin,Lecomte,4.0,1,10
+252,Alfie,McNally,4.0,1,10
+253,Joachim,Andersen,5.0,2,10
+254,Antonee,Robinson,4.4,2,10
+255,Jorge,Cuenca Barreno,4.4,2,10
+256,Kenny,Tete,4.4,2,10
+257,Calvin,Bassey,4.5,2,10
+258,Timothy,Castagne,4.5,2,10
+261,Alex,Iwobi,5.4,3,10
+262,Emile,Smith Rowe,5.2,3,10
+263,Kevin,Santos Lopes de Macedo,5.2,3,10
+264,Oscar,Bobb,5.5,3,10
+265,Sander,Berge,4.8,3,10
+266,Tom,Cairney,4.9,3,10
+268,Josh,King,5.5,3,10
+269,Ryan,Sessegnon,4.3,2,10
+270,Harrison,Reed,4.3,3,10
+271,Rodrigo,Muniz Carvalho,5.3,4,10
+272,Jonah,Kusi-Asare,4.3,4,10
+569,Gonzalo,García,5.9,4,10
+570,César,Palacios,5.3,3,10
+580,Shea,Charles,5.0,3,10
+610,Luc,De Fougerolles,4.0,2,10
+626,Macaulay,Zepa,4.4,3,10
+635,Hugo,Larsson,5.0,3,10
+636,Manuel Ángel,Morán Ibáñez,5.0,3,10
+650,David,Affengruber,4.5,2,10
+240,Tim,Iroegbunam,5.0,3,11
+273,Dillon,Phillips,4.0,1,11
+274,Jack,Butland,4.4,1,11
+275,Harvey,Cartwright,4.0,1,11
+276,Thimothée,Lo-Tutala,4.0,1,11
+277,John,Egan,4.1,2,11
+278,Charlie,Hughes,3.9,2,11
+279,Semi,Ajayi,4.2,2,11
+280,Lewie,Coyle,4.0,2,11
+281,Cody,Drameh,4.0,2,11
+282,Ryan,Giles,4.0,2,11
+283,Matty,Jacob,4.0,2,11
+284,Cathal,McCarthy,4.0,2,11
+285,Paddy,McNair,3.9,2,11
+286,Mohamed,Belloumi,5.3,3,11
+287,Liam,Millar,5.0,3,11
+288,Kieran,Dowell,4.3,3,11
+289,Matt,Crooks,4.4,3,11
+290,Regan,Slater,4.5,3,11
+291,Eliot,Matazo,4.5,3,11
+292,Abdülkadir,Ömür,4.8,3,11
+293,Abu,Kamara,5.0,3,11
+294,Óscar,Zambrano,4.4,3,11
+295,Oli,McBurnie,5.5,4,11
+296,David,Akintola,5.0,3,11
+297,Darko,Gyabi,4.4,3,11
+298,Enis,Destan,4.5,4,11
+299,Mason,Burstow,4.5,4,11
+340,Joe,Gelhardt,5.0,3,11
+556,Matt,Targett,3.9,2,11
+563,Hidemasa,Morita,4.9,3,11
+572,Konstantinos,Tzolakis,4.7,1,11
+574,Jens,Hjertø-Dahl,4.8,3,11
+576,Elliot,Stroud,4.9,3,11
+585,Lucas,Herrington,3.9,2,11
+586,Nobel,Mendy,4.1,2,11
+589,Lucas,Gourna-Douath,4.9,3,11
+617,Mohamed-Ali,Cho,5.0,3,11
+632,Ilyas,Ansah,4.9,4,11
+637,Robinio,Vaz,5.0,4,11
+638,Brooke,Norton-Cuffy,3.9,2,11
+642,Sorba,Thomas,5.5,3,11
+645,Christos,Mouzakitis,5.0,3,11
+259,Issa,Diop,3.9,2,12
+267,Saša,Lukić,4.9,3,12
+300,Christian,Walton,4.4,1,12
+301,Alex,Palmer,4.0,1,12
+302,David,Button,4.0,1,12
+303,Cédric,Kipré,3.9,2,12
+304,Dara,O'Shea,4.0,2,12
+305,Leif,Davis,4.0,2,12
+306,Jacob,Greaves,3.9,2,12
+307,Ben,Johnson,4.0,2,12
+308,Darnell,Furlong,3.9,2,12
+309,Marcelino,Núñez,4.8,3,12
+310,Azor,Matusiwa,4.9,3,12
+311,Wes,Burns,5.0,3,12
+312,Jack,Taylor,4.4,3,12
+313,Jack,Clarke,5.2,3,12
+314,Chiedozie,Ogbene,4.9,3,12
+315,Abdul,Fatawu,5.4,3,12
+316,Emersonn,Correia da Silva,5.4,4,12
+317,George,Hirst,5.0,4,12
+318,Jaden,Philogene,5.4,3,12
+319,Sam,Szmodics,5.0,3,12
+320,Chuba,Akpom,5.0,4,12
+321,Sindre,Walle Egeli,4.5,4,12
+322,Ali,Al-Hamadi,5.0,4,12
+323,Kasey,McAteer,4.3,3,12
+324,Anis,Mehmeti,4.7,3,12
+554,Kayne,van Oevelen,4.5,1,12
+562,Daizen,Maeda,5.3,3,12
+564,Kjell,Scherpen,4.4,1,12
+571,Florentino Ibrain,Morris Luís,4.8,3,12
+591,Julio,Enciso,5.5,3,12
+592,Abdoul,Ouattara,4.0,2,12
+602,Cameron,Humphreys,4.5,3,12
+619,Exequiel,Palacios,5.0,3,12
+640,Zian,Flemming,5.5,4,12
+260,Harry,Wilson,6.1,3,13
+326,Lucas Estella,Perri,4.5,1,13
+327,Jaka,Bijol,5.0,2,13
+329,Joe,Rodon,4.2,2,13
+330,Jayden,Bogle,4.8,2,13
+331,Gabriel,Gudmundsson,4.5,2,13
+332,James,Justin,4.5,2,13
+333,Sebastiaan,Bornauw,4.5,2,13
+334,Tarik,Muharemović,5.1,2,13
+335,Anton,Stach,6.0,3,13
+336,Noah,Okafor,5.7,3,13
+337,Brenden,Aaronson,5.2,3,13
+338,Ethan,Ampadu,5.3,3,13
+339,Sean,Longstaff,4.8,3,13
+341,Wilfried,Gnonto,5.0,3,13
+342,Jack,Harrison,5.0,3,13
+343,Daniel,James,4.9,3,13
+344,Ilia,Gruev,5.0,3,13
+345,Tanaka,Ao,4.9,3,13
+346,Dominic,Calvert-Lewin,6.0,4,13
+347,Lukas,Nmecha,5.3,4,13
+348,Joël,Piroe,5.0,4,13
+349,Mateo,Joseph Fernández-Regatillo,4.4,4,13
+385,James,Trafford,5.0,1,13
+598,Nico,Elvedi,4.5,2,13
+603,Jayden,Lienou,4.0,2,13
+604,Alfie,Cresswell,4.5,3,13
+625,Alex,Cairns,4.0,1,13
+629,Michael,Zetterer,4.0,1,13
+641,Melvin,Bard,4.5,2,13
+648,Jean-Mattéo,Bahoya,4.8,3,13
+350,Alisson,Becker,5.5,1,14
+351,Giorgi,Mamardashvili,4.8,1,14
+352,Freddie,Woodman,4.0,1,14
+353,Armin,Pecsi,4.0,1,14
+354,Vitezslav,Jaros,4.0,1,14
+355,Harvey,Davies,4.0,1,14
+356,Virgil,van Dijk,6.4,2,14
+357,Jeremie,Frimpong,5.2,2,14
+358,Milos,Kerkez,5.3,2,14
+359,Joe,Gomez,4.9,2,14
+360,Conor,Bradley,4.9,2,14
+361,Wellity,Lucky,3.9,2,14
+362,Jeremy,Jacquet,5.1,2,14
+363,Giovanni,Leoni,3.9,2,14
+364,Kostas,Tsimikas,4.9,2,14
+365,Calvin,Ramsay,4.0,2,14
+366,Florian,Wirtz,7.2,3,14
+367,Cody,Gakpo,7.1,3,14
+368,Dominik,Szoboszlai,6.7,3,14
+369,Rio,Ngumoha,5.7,3,14
+370,Federico,Chiesa,5.3,3,14
+371,Ryan,Gravenberch,5.8,3,14
+372,Alexis,Mac Allister,5.4,3,14
+373,Curtis,Jones,5.5,3,14
+374,Endo,Wataru,4.8,3,14
+375,Trey,Nyoni,4.8,3,14
+376,Stefan,Bajčetić Maquieira,5.0,3,14
+377,Victor,Munoz,6.5,3,14
+378,James,McConnell,4.4,3,14
+379,Alexander,Isak,9.3,4,14
+380,Hugo,Ekitiké,7.4,4,14
+381,Lewis,Koumas,5.0,3,14
+382,Jayden,Danns,4.5,4,14
+383,Harvey,Elliott,5.4,3,14
+579,Ronald,Araujo,5.5,2,14
+627,Bradley,Barcola,8.1,3,14
+155,Enzo,Fernández,6.9,3,15
+237,Iliman,Ndiaye,5.8,3,15
+384,Gianluigi,Donnarumma,5.4,1,15
+386,Marcus,Bettinelli,4.4,1,15
+387,Nico,O'Reilly,6.2,2,15
+388,Marc,Guéhi,6.0,2,15
+389,Matheus,Nunes,5.9,2,15
+390,Rúben,dos Santos Gato Alves Dias,5.5,2,15
+391,Joško,Gvardiol,5.6,2,15
+392,Rayan,Aït-Nouri,5.1,2,15
+393,Abdukodir,Khusanov,5.3,2,15
+394,Max,Alleyne,5.0,2,15
+395,Rico,Lewis,4.3,2,15
+396,Vitor,de Oliveira Nunes dos Reis,4.4,2,15
+397,Antoine,Semenyo,8.2,3,15
+398,Phil,Foden,6.8,3,15
+399,Rayan,Cherki,7.9,3,15
+400,Jérémy,Doku,7.5,3,15
+402,Rodrigo 'Rodri',Hernandez Cascante,6.5,3,15
+404,Tijjani,Reijnders,6.0,3,15
+406,Mateo,Kovačić,5.3,3,15
+407,Claudio,Echeverri,4.9,3,15
+408,Kalvin,Phillips,5.0,3,15
+409,Divine,Mukasa,4.5,3,15
+410,Jeremy,Monga,4.9,3,15
+411,Erling,Haaland,15.8,4,15
+481,Elliot,Anderson,6.2,3,15
+587,Gerónimo,Rulli,4.9,1,15
+616,Ayyoub,Bouaddi,5.5,3,15
+621,Ryan,McAidoo,4.4,3,15
+622,Kaden,Braithwaite,3.9,2,15
+628,Allan,Andrade Elias,6.0,3,15
+653,Floyd,Samba,4.4,3,15
+43,Youri,Tielemans,5.6,3,16
+131,Carlos,Baleba,4.9,3,16
+162,Andrey,Nascimento dos Santos,4.7,3,16
+325,Karl,Darlow,4.5,1,16
+412,Senne,Lammens,4.8,1,16
+413,Altay,Bayındır,4.5,1,16
+414,Tom,Heaton,4.0,1,16
+415,Patrick,Dorgu,5.7,3,16
+416,Matthijs,de Ligt,4.9,2,16
+417,Diogo,Dalot Teixeira,4.7,2,16
+418,Harry,Maguire,4.6,2,16
+419,Lisandro,Martínez,4.8,2,16
+420,Leny,Yoro,4.8,2,16
+421,Ayden,Heaven,4.3,2,16
+422,Noussair,Mazraoui,4.3,2,16
+423,Luke,Shaw,4.2,2,16
+424,Harry,Amass,3.9,2,16
+425,Tyler,Fredricson,4.0,2,16
+426,Bruno,Borges Fernandes,11.6,3,16
+427,Bryan,Mbeumo,7.9,3,16
+428,Matheus,Santos Carneiro da Cunha,7.8,3,16
+429,Marcus,Rashford,6.8,3,16
+430,Mason,Mount,5.4,3,16
+431,Amad,Diallo,5.7,3,16
+432,Kobbie,Mainoo,5.5,3,16
+433,Manuel,Ugarte Ribeiro,5.0,3,16
+434,Jack,Fletcher,4.9,3,16
+435,Shea,Lacey,4.9,3,16
+436,Toby,Collyer,5.0,3,16
+437,Bendito,Mantato,4.4,3,16
+438,Tyler,Fletcher,4.4,3,16
+439,Benjamin,Sesko,6.9,4,16
+440,Joshua,Zirkzee,5.3,4,16
+441,Chido,Obi,4.5,4,16
+405,Nico,González Iglesias,5.5,3,17
+442,Nick,Pope,4.8,1,17
+443,Mark,Gillespie,4.5,1,17
+444,Ewen,Jaouen,4.4,1,17
+445,Malick,Thiaw,4.9,2,17
+446,Fabian,Schär,4.9,2,17
+447,Sven,Botman,5.0,2,17
+448,Dan,Burn,4.8,2,17
+449,Lewis,Hall,5.2,2,17
+450,Tino,Livramento,4.8,2,17
+451,Alex,Murphy,4.0,2,17
+453,Harvey,Barnes,6.1,3,17
+454,Anthony,Elanga,6.0,3,17
+456,Jacob,Ramsey,4.8,3,17
+457,Jacob,Murphy,5.9,3,17
+458,Joelinton Cássio,Apolinário de Lira,5.4,3,17
+459,Lewis,Miley,5.5,3,17
+460,Joe,Willock,5.0,3,17
+461,Bazoumana,Touré,5.7,3,17
+462,Sean,Steur,4.8,3,17
+463,Nick,Woltemade,5.9,4,17
+464,Yoane,Wissa,5.9,4,17
+465,William,Osula,5.8,4,17
+466,Sean,Neave,4.5,4,17
+559,Aladji,Bamba,4.8,3,17
+567,Lukás,Hornícek,5.0,1,17
+593,Amar,Dedic,4.4,2,17
+609,Leo,Shahar,4.0,2,17
+634,Matias,Fernandez-Pardo,5.8,4,17
+659,Mason,Miley,4.5,3,17
+663,Miodrag,Pivas,4.0,2,17
+664,Vakhtang,Salia,4.5,4,17
+665,Michael,Mills,4.5,3,17
+666,Kyran,Thompson,4.5,3,17
+167,Liam,Delap,5.3,4,18
+201,Daniel,Muñoz Mejía,5.2,2,18
+467,Matz,Sels,5.0,1,18
+468,John Victor,Maciel Furtado,4.4,1,18
+469,Neco,Williams,4.9,2,18
+470,Felipe,Rodrigues da Silva,5.0,2,18
+471,Nikola,Milenković,5.4,2,18
+472,Murillo,Costa dos Santos,5.5,2,18
+473,Ola,Aina,4.2,2,18
+474,Jair,Paula da Cunha Filho,4.4,2,18
+475,Nicolò,Savona,4.5,2,18
+476,Omar,Richards,3.9,2,18
+477,Zach,Abbott,4.0,2,18
+478,Luca,Netz,4.4,2,18
+479,Tyler,Bindon,4.0,2,18
+480,Morgan,Gibbs-White,7.8,3,18
+482,Callum,Hudson-Odoi,5.7,3,18
+483,Dan,Ndoye,5.5,3,18
+484,Omari,Hutchinson,5.4,3,18
+485,Dilane,Bakwa,5.5,3,18
+486,James,McAtee,5.5,3,18
+487,Nicolás,Domínguez,4.8,3,18
+488,Ibrahim,Sangaré,4.7,3,18
+489,Ryan,Yates,4.4,3,18
+490,Chris,Wood,5.7,4,18
+491,Igor Jesus,Maciel da Cruz,5.6,4,18
+493,Arnaud,Kalimuendo,5.4,4,18
+558,Xaver,Schlager,5.0,3,18
+581,Ousmane,Diomande,5.3,2,18
+590,Steven,Benda,4.5,1,18
+112,Jan Paul,van Hecke,5.1,2,19
+147,Tosin,Adarabioyo,4.3,2,19
+401,Omar,Marmoush,7.0,4,19
+403,Sávio,Moreira de Oliveira,6.4,3,19
+455,Sandro,Tonali,5.3,3,19
+494,Guglielmo,Vicario,4.5,1,19
+495,Brandon,Austin,4.0,1,19
+496,Antonín,Kinský,4.4,1,19
+497,Martin,Dubravka,4.0,1,19
+498,Marcos,Senesi Barón,5.7,2,19
+499,Pedro,Porro Sauceda,5.3,2,19
+500,Cristian,Romero,5.0,2,19
+502,Andrew,Robertson,4.3,2,19
+503,Micky,van de Ven,5.0,2,19
+505,Djed,Spence,4.5,2,19
+506,Destiny,Udogie,4.4,2,19
+507,Ashley,Phillips,4.5,2,19
+508,Ben,Davies,3.9,2,19
+509,Jun'ai,Byfield,4.0,2,19
+510,James,Rowswell,4.0,2,19
+511,João Victor,de Souza Menezes,4.0,2,19
+512,Mohammed,Kudus,6.6,3,19
+513,Xavi,Simons,5.9,3,19
+514,Mathys,Tel,5.6,3,19
+515,James,Maddison,6.2,3,19
+516,Rodrigo,Bentancur,5.4,3,19
+517,Wilson,Odobert,5.5,3,19
+518,Pape Matar,Sarr,4.9,3,19
+519,Conor,Gallagher,5.3,3,19
+520,Lucas,Bergvall,5.3,3,19
+521,Dejan,Kulusevski,6.5,3,19
+522,Archie,Gray,4.9,3,19
+523,Mikey,Moore,5.0,3,19
+524,Callum,Olusesi,4.4,3,19
+525,Mateus,Fernandes,5.6,3,19
+526,Dominic,Solanke-Mitchell,5.8,4,19
+527,Richarlison,de Andrade,5.9,4,19
+528,Dane,Scarlett,4.5,4,19
+578,Mykhailo,Mudryk,5.3,3,19
+601,Luca,Williams-Barnett,4.4,3,19
+671,Luca,Gunter,4.0,1,19
+501,Kevin,Danso,5.0,2,20
+529,Robin,Roefs,4.9,1,20
+530,Anthony,Patterson,4.0,1,20
+531,Melker,Ellborg,4.4,1,20
+532,Daniel,Ballard,4.7,2,20
+533,Nordi,Mukiele,5.3,2,20
+534,Trai,Hume,4.2,2,20
+535,Omar,Alderete,4.8,2,20
+536,Reinildo,Mandava,4.4,2,20
+537,Jenson,Seelt,4.5,2,20
+538,Leo Fuhr,Hjelde,4.0,2,20
+539,Luke,O'Nien,3.9,2,20
+540,Arthur,Masuaku,4.0,2,20
+541,Thomas,Meunier,4.4,2,20
+542,Enzo,Le Fée,5.7,3,20
+543,Habib,Diarra,5.3,3,20
+544,Granit,Xhaka,5.3,3,20
+545,Noah,Sadiki,4.8,3,20
+546,Simon,Adingra,4.9,3,20
+547,Romaine,Mundle,4.8,3,20
+548,Chris,Rigg,4.8,3,20
+549,Chemsdine,Talbi,5.2,3,20
+550,Djiamgone Jocelin Ta,Bi,4.9,3,20
+551,Nilson,Angulo,5.0,3,20
+552,Brian,Brobbey,5.7,4,20
+553,Wilson,Isidor,5.4,4,20
+612,Dayann,Méthalie,4.5,2,20
+613,Jules,Ahoka,4.4,3,20
+646,Malick,Fofana,5.4,3,20
+651,Juan,Angulo,4.5,4,20
+668,Tymur,Tutierov,4.8,3,20
